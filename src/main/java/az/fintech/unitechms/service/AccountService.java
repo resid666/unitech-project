@@ -1,8 +1,8 @@
 package az.fintech.unitechms.service;
 
 import az.fintech.unitechms.dto.ResultDto;
-import com.fintech.unitech.dto.AccountDto;
-import com.fintech.unitech.dto.TransferDto;
+import az.fintech.unitechms.dto.AccountDto;
+import az.fintech.unitechms.dto.TransferDto;
 
 import java.util.List;
 

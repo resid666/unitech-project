@@ -1,6 +1,6 @@
-package com.fintech.unitech.service;
+package az.fintech.unitechms.service;
 
-import com.fintech.unitech.dto.CurrencyDto;
+import az.fintech.unitechms.dto.CurrencyDto;
 
 import java.util.List;
 

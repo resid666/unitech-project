@@ -1,4 +1,4 @@
-package com.fintech.unitech.config;
+package az.fintech.unitechms.config;
 
 import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.fintech.unitech.domain;
+package az.fintech.unitechms.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

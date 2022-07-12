@@ -1,4 +1,4 @@
-package com.fintech.unitech.config;
+package az.fintech.unitechms.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

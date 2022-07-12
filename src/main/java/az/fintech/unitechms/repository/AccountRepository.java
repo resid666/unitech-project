@@ -1,7 +1,7 @@
-package com.fintech.unitech.repository;
+package az.fintech.unitechms.repository;
 
-import com.fintech.unitech.domain.Account;
-import com.fintech.unitech.enumeration.AccountStatus;
+import az.fintech.unitechms.model.Account;
+import az.fintech.unitechms.enumeration.AccountStatus;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

@@ -2,11 +2,11 @@ package az.fintech.unitechms.service.impl;
 
 import az.fintech.unitechms.exception.CredentialsException;
 import az.fintech.unitechms.exception.PinAlreadyExistException;
-import com.fintech.unitech.domain.User;
-import com.fintech.unitech.dto.LoginDto;
-import com.fintech.unitech.dto.RegisterDto;
-import com.fintech.unitech.repository.UserRepository;
-import com.fintech.unitech.service.UserService;
+import az.fintech.unitechms.model.User;
+import az.fintech.unitechms.dto.LoginDto;
+import az.fintech.unitechms.dto.RegisterDto;
+import az.fintech.unitechms.repository.UserRepository;
+import az.fintech.unitechms.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Service;

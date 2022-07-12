@@ -2,8 +2,8 @@ package az.fintech.unitechms.controller;
 
 import az.fintech.unitechms.dto.ResultDto;
 import az.fintech.unitechms.service.AccountService;
-import com.fintech.unitech.dto.AccountDto;
-import com.fintech.unitech.dto.TransferDto;
+import az.fintech.unitechms.dto.AccountDto;
+import az.fintech.unitechms.dto.TransferDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

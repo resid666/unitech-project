@@ -1,6 +1,6 @@
-package com.fintech.unitech.repository;
+package az.fintech.unitechms.repository;
 
-import com.fintech.unitech.domain.Transfer;
+import az.fintech.unitechms.model.Transfer;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface TransferRepository extends JpaRepository<Transfer, Long> {

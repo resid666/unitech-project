@@ -1,6 +1,6 @@
-package com.fintech.unitech.repository;
+package az.fintech.unitechms.repository;
 
-import com.fintech.unitech.domain.User;
+import az.fintech.unitechms.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

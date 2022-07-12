@@ -1,8 +1,8 @@
-package com.fintech.unitech.controller;
+package az.fintech.unitechms.controller;
 
-import com.fintech.unitech.dto.LoginDto;
-import com.fintech.unitech.dto.RegisterDto;
-import com.fintech.unitech.service.UserService;
+import az.fintech.unitechms.dto.LoginDto;
+import az.fintech.unitechms.dto.RegisterDto;
+import az.fintech.unitechms.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

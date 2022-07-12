@@ -1,4 +1,4 @@
-package com.fintech.unitech.dto;
+package az.fintech.unitechms.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

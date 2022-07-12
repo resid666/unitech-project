@@ -4,133 +4,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6db5b4d-d903-4644-8392-ae6db6a15174" name="Changes" comment="Unitech project added" />
+    <list default="true" id="64c37fe5-c0e6-45cb-855f-daf3569108aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/unitech-ms.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/config/CachingConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/config/CachingConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/config/ModelMapperConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/config/ModelMapperConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/controller/CurrencyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/controller/CurrencyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/AccountDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/AccountDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/CurrencyDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/CurrencyDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/ErrorResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/ErrorResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/LoginDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/RegisterDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/RegisterDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/TransferDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/TransferDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/dto/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/enumeration/AccountStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/enumeration/AccountStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/exception/ExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/exception/ExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/model/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/model/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/model/Transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/model/Transfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/repository/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/repository/AccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/repository/TransferRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/repository/TransferRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/CurrencyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/CurrencyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/CurrencyService2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/CurrencyService2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/impl/CurrencyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/impl/CurrencyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/az/fintech/unitechms/service/impl/UserServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="unitech-ms" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="unitech-ms" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="unitech-ms" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
-  </component>
-  <component name="JpbToolWindowState">
-    <option name="myId2FirstActivated">
-      <map>
-        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
-      </map>
-    </option>
-    <option name="myId2Visible">
-      <map>
-        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
-      </map>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
-  <component name="ProjectId" id="2BpuRyXWm1YyK4Nvwodn0n1T4iM" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2BpzEHbZOQL0UbJlLoUDojYrz1g" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "spring.configuration.checksum": "8c948546bf43ed669aeeba930c962611"
   }
-}</component>
-  <component name="RunManager" selected="Gradle.unitech-projectt [build]">
-    <configuration name="unitech-projectt [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="unitech-projectt [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
+}]]></component>
+  <component name="RunManager">
     <configuration name="UnitechMsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="unitech-ms.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="az.fintech.unitechms.UnitechMsApplication" />
@@ -138,57 +89,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Gradle.unitech-projectt [build]" />
-        <item itemvalue="Gradle.unitech-projectt [clean]" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6db5b4d-d903-4644-8392-ae6db6a15174" name="Changes" comment="" />
-      <created>1657615342933</created>
+      <changelist id="64c37fe5-c0e6-45cb-855f-daf3569108aa" name="Changes" comment="" />
+      <created>1657617702877</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1657615342933</updated>
-      <workItem from="1657615348104" duration="759000" />
+      <updated>1657617702877</updated>
+      <workItem from="1657617704657" duration="1677000" />
     </task>
-    <task id="LOCAL-00001" summary="Unitech project added">
-      <created>1657615780213</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1657615780215</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Unitech project added">
-      <created>1657615811096</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1657615811096</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Unitech project added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unitech project added" />
   </component>
 </project>

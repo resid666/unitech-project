@@ -1,7 +1,7 @@
-package com.fintech.unitech.service;
+package az.fintech.unitechms.service;
 
-import com.fintech.unitech.dto.LoginDto;
-import com.fintech.unitech.dto.RegisterDto;
+import az.fintech.unitechms.dto.LoginDto;
+import az.fintech.unitechms.dto.RegisterDto;
 
 public interface UserService {
 

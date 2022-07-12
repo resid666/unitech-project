@@ -1,7 +1,7 @@
-package com.fintech.unitech.service.impl;
+package az.fintech.unitechms.service.impl;
 
-import com.fintech.unitech.dto.CurrencyDto;
-import com.fintech.unitech.service.CurrencyService;
+import az.fintech.unitechms.dto.CurrencyDto;
+import az.fintech.unitechms.service.CurrencyService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 @RequiredArgsConstructor
 public class CurrencyServiceImpl implements CurrencyService {
 
-    private final com.fintech.unitech.service.CurrencyService2 currencyService2;
+    private final az.fintech.unitechms.service.CurrencyService2 currencyService2;
 
     @Override
     public List<CurrencyDto> getCurrencies() {

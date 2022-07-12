@@ -1,4 +1,4 @@
-package com.fintech.unitech.service;
+package az.fintech.unitechms.service;
 
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Component;

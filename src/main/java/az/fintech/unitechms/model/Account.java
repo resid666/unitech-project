@@ -1,6 +1,6 @@
-package com.fintech.unitech.domain;
+package az.fintech.unitechms.model;
 
-import com.fintech.unitech.enumeration.AccountStatus;
+import az.fintech.unitechms.enumeration.AccountStatus;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

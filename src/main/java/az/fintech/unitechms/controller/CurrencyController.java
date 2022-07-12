@@ -1,7 +1,7 @@
-package com.fintech.unitech.controller;
+package az.fintech.unitechms.controller;
 
-import com.fintech.unitech.dto.CurrencyDto;
-import com.fintech.unitech.service.CurrencyService;
+import az.fintech.unitechms.dto.CurrencyDto;
+import az.fintech.unitechms.service.CurrencyService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
